@@ -1,0 +1,6 @@
+build
+.env
+package-lock.json
+node_modules
+eth_txn_hard_way.pem
+venv
